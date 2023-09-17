@@ -3,4 +3,4 @@ This repository contains notebooks with illustrative examples of dynamical syste
 These results are drawn from the following references:
 1) Tallapragada, Phanindra, and Sudarsanam, Senbagaraman. "A globally stable attractor that is locally unstable everywhere." AIP Advances 7.12 (2017).
 2) Sudarsanam, Senbagaraman, and Phanindra Tallapragada. "Global stability of trajectories of inertial particles within domains of instability." Communications in Nonlinear Science and Numerical Simulation 42 (2017): 313-323.
-3) 
+
